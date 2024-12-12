@@ -1,4 +1,5 @@
 I am learning git and GitHub today and i am learning new commands and their functionalities.
-I look forward to the day when I get comfortable with Git and GitHub.
+I look forward to the day when I get comfortable with Git and GitHub. similar to latex.
 I have learned 4 commands till now.
 Let's now learn about the branches in the git how to merge and solve conflicts.
+Additional information will be shared.
