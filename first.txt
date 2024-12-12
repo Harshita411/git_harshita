@@ -3,3 +3,4 @@ I look forward to the day when I get comfortable with Git and GitHub. similar to
 I have learned 4 commands till now.
 Let's now learn about the branches in the git how to merge and solve conflicts.
 Additional information will be shared.
+I have successfully pushed my repository to the GitHub.
